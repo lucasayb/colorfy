@@ -1,0 +1,8 @@
+.card {
+  cursor: pointer;
+  transition: 0.1s;
+  width: 33.33%;
+  &:hover {
+    opacity: 0.8;
+  }
+}
