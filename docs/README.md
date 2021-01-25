@@ -4,6 +4,8 @@
 # Colorfy
 This is a simulation of the classic [Simon](https://en.wikipedia.org/wiki/Simon_(game)) game.
 
+## Demo
+The app can be accessed at [https://colorfy.vercel.app/](https://colorfy.vercel.app/).
 
 ![Project screenshot](./screenshot.png)
 
